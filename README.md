@@ -1,14 +1,29 @@
-# My IAM-lab-practice
+# Project Title
 
-This repo is where I practice before doing the real labs.
+## Project Overview
 
-## What I am learning
+One or two sentences on what this is.
 
--Microsoft Entra ID
--How to publish a project on Github
+## Business Scenario
 
-## A thing I want to remember
+The fictional company and what they needed.
 
-**Bold text** is done with two asterisks.
+## Tools Used
 
-Here is a link: [Microsoft Entra documentation](https://learn.microsoft.com/entra/)
+- Microsoft Entra ID
+
+## What I Built
+
+The main sections of work.
+
+## Screenshots
+
+![Description of the image](screenshots/practice-shot.png)
+
+## Security Lessons Learned
+
+What this taught me about why it matters.
+
+## Future Improvements
+
+What I would do next, honestly.
