@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This is the first Repo for IAM projects. :)
+One or two sentences on what this is.
 
 ## Business Scenario
 
-There was no functionality yet.
+The fictional company and what they needed.
 
 ## Tools Used
 
@@ -14,7 +14,7 @@ There was no functionality yet.
 
 ## What I Built
 
-I built the first step. 
+The main sections of work.
 
 ## Screenshots
 
@@ -26,4 +26,4 @@ What this taught me about why it matters.
 
 ## Future Improvements
 
-I would like to get started learning IAM. 
+What I would do next, honestly.
